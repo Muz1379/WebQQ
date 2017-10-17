@@ -1,0 +1,2 @@
+# WebQQ-python
+python
